@@ -28,6 +28,12 @@ body {
   overflow-x: hidden;
 }
 
+.tm-welcome-icon-2 {
+  padding: 0 15px 30px;
+  margin-left: 30px;
+}
+
+
 .tm-mb-20 { margin-bottom: 20px !important; }
 .tm-mb-25 { margin-bottom: 25px; }
 .tm-mb-35 { margin-bottom: 35px; }
